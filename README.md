@@ -2,7 +2,7 @@ Hi there 👋
 
 I'm Mark. Thanks for dropping by! I like coding, been learning and achieving from January 2020 almost non-stop.
 
-- 🔭 I’m currently working on my way up to better understanding React and all of its bits and bobs, also learning backend and three.js
+- 🔭 I’m currently working my way up to better understanding React and all of its bits and bobs, also learning backend and three.js
 - 🌱 I’m currently learning React.js//Node.js
 - 📫 Hit me up with any related questions @ baranyi.mark95@gmail.com
 - 😄 Pronouns: he/him/his
