@@ -7,6 +7,6 @@ I'm Mark. Thanks for dropping by! I like coding, been learning and achieving fro
 - 📫 Hit me up with any related questions @ baranyi.mark95@gmail.com
 - 😄 Pronouns: he/him/his
 
-&#129351 Check my portfolio here:https://github.com/GoOsTT/Portfolio
+<p>&#129351</p> Check my portfolio here:https://github.com/GoOsTT/Portfolio
 
 <img src="https://media1.tenor.com/images/1fee47e6f1f74ed30b3fce90ba623e72/tenor.gif?itemid=13247933">
