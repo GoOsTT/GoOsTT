@@ -1,6 +1,6 @@
 Hi there 👋
 
-I'm Mark. Thanks for dropping by! I like coding, been learning and achieving from January 2020 almost non-stop.
+I'm Mark. Thanks for dropping by! I love coding most of the times. I have been learning and achieving from January 2020 almost non-stop.
 
 - 🔭 I’m currently working my way up to better understanding React and all of its bits and bobs, also learning backend and three.js
 - 🌱 I’m currently learning React.js//Node.js
