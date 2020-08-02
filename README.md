@@ -1,3 +1,7 @@
+
+<img src="https://w7.pngwing.com/pngs/54/45/png-transparent-react-javascript-library-angularjs-web-application-framework-logo-symmetry-web-application-thumbnail.png">
+
+
 Hi there 👋
 
 I'm Mark. Thanks for dropping by! I love coding most of the times. I have been learning and achieving from January 2020 almost non-stop.
