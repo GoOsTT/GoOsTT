@@ -10,4 +10,5 @@ I'm Mark. Thanks for dropping by! I love coding most of the times. I have been l
 
 <br></br>
 
-![Mygithub stats](https://github-readme-stats.vercel.app/api?username=GoOsTT&hide=contribs,prs&theme=dark)
+![Mygithub stats](https://github-readme-stats.vercel.app/api?username=GoOsTT&hide=contribs,prs&theme=dark)<br></br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GoOsTT)](https://github.com/anuraghazra/github-readme-stats)
