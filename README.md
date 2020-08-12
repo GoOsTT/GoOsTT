@@ -8,9 +8,9 @@ I'm Mark. Thanks for dropping by! I love coding most of the times. I have been l
 - 😄 Pronouns: he/him/his
 - 🥇 Check my most recent projects, they are all over the place!
 
-<br/>
+<br></br>
 
-![Mygithub stats](https://github-readme-stats.vercel.app/api?username=GoOsTT&hide=contribs,prs&theme=dark)<br/>
+![Mygithub stats](https://github-readme-stats.vercel.app/api?username=GoOsTT&hide=contribs,prs&theme=dark)<br></br>
 
-<br/>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GoOsTT)](https://github.com/anuraghazra/github-readme-stats)
