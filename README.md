@@ -8,4 +8,4 @@ I'm Mark. Thanks for dropping by! I love coding most of the times. I have been l
 - 😄 Pronouns: he/him/his
 - 🥇 Check my most recent projects, they are all over the place!
 
-[GoOsTT's github stats](https://github-readme-stats.vercel.app/api?username=GoOsTT)
+![Mygithub stats](https://github-readme-stats.vercel.app/api?username=GoOsTT&hide=contribs,prs)
