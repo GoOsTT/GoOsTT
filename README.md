@@ -1,6 +1,6 @@
 Hi there 👋
 
-I'm Mark. Thanks for dropping by! I love coding most of the times.
+I'm Mark. Thanks for dropping by! I love coding and problem solving and learning new and exciting stuff.
 
 - 🔭 I’m currently working as a web developer and content manager in an international company.
 - 🌱 My stack is React/Nextjs on the frontend, Node.js/Express.js on the backend and SQL and Mongo are my choices for databases.
