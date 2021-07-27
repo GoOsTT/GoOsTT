@@ -3,7 +3,7 @@ Hi there 👋
 I'm Mark. Thanks for dropping by! I love coding most of the times.
 
 - 🔭 I’m currently working as a web developer and content manager in an international company.
-- 🌱 My stack is React/Nextjs on the frontend, Node.js/Express.js on the backend and SQL and Mongo as the datebases.
+- 🌱 My stack is React/Nextjs on the frontend, Node.js/Express.js on the backend and SQL and Mongo are my choices for databases.
 - 📫 Hit me up with any related questions @ baranyi.mark95@gmail.com
 - 😄 Pronouns: he/him/his
 - 🥇 Check my most recent projects, they are all over the place!
